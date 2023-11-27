@@ -1,11 +1,14 @@
 # 遺伝的アルゴリズムを用いたシフト自動生成
 
 poetryで環境を用意してください．
-
-```poetry install```
+```
+poetry install
+```
 
 実行コマンドは以下のとおりです．
-```poetry run python main.py```
+```
+poetry run python main.py
+```
 
 
 ### 説明
